@@ -1,14 +1,14 @@
 ---
+title: Fengda Zhu (朱峰达)
+role: PhD of Artificial Intelligence
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Fengda Zhu (朱峰达)
-role: PhD of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,7 +42,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Fengda Zhu (朱峰达) is a PhD of Artificial Intelligence in Monash University, advised by Xiaojun Chang and Xiaodan Liang. His research interests include include computer vision, navigation and reasoning.
