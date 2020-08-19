@@ -3,16 +3,16 @@ title: Fengda Zhu (朱峰达)
 role: PhD of Artificial Intelligence
 avatar_filename: avatar.jpg
 organizations:
-  - name: Stanford University
+  - name: Monash University
     url: ""
 superuser: true
 authors:
   - admin
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Navigation
+  - Reasoning
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,18 +28,15 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Faculty of Information Technology, Monash
+      institution: Monash University
+      year: 2018
+    - course: BSc in Software Engineering
+      institution: Beihang University
+      year: 2013
+email: zhufengda at yahoo dot com
 user_groups:
   - Researchers
   - Visitors
 ---
-Fengda Zhu (朱峰达) is a PhD of Artificial Intelligence in Monash University, advised by Xiaojun Chang and Xiaodan Liang. His research interests include include computer vision, navigation and reasoning.
+Fengda Zhu (朱峰达) is a PhD of Artificial Intelligence in Monash University, advised by Xiaojun Chang and Xiaodan Liang. His research interests include computer vision, navigation and reasoning.
