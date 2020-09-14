@@ -1,7 +1,7 @@
 ---
 title: Fengda Zhu (朱峰达)
 role: PhD of Artificial Intelligence
-avatar_filename: avatar.jpg
+avatar_filename: fengda-zhu.jpg
 organizations:
   - name: Monash University
     url: ""
