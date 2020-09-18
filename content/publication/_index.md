@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Vision-language navigation with self-supervised auxiliary reasoning tasks"
   image: ""
 ---
