@@ -36,4 +36,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Fengda Zhu (朱峰达) is a PhD of Artificial Intelligence in Monash University, advised by Vincent CS Lee. His research interests include computer vision, navigation and reasoning.
+Fengda Zhu (朱峰达) is a PhD of Artificial Intelligence in Monash University, advised by Vincent CS Lee, Xiaojun Chang and Xiaodan Liang. His research interests include computer vision, navigation and reasoning.
